@@ -36,18 +36,8 @@
 //case3
 import React, { Component } from 'react'
 import { render } from 'react-dom';
+import Result from './test.js'
 
-class Result extends Component{
-
-  render() {
-
-    return (
-      <div>
-        djaijdia
-      </div>
-    );
-  }
-}
 
 render(
   <Result />,
